@@ -1,0 +1,39 @@
+{
+  "name": "config-client",
+  "id": "59b271d3-8386-431f-b41e-b4485eadc559",
+  "address": "DESKTOP-GF66NDR",
+  "port": 8084,
+  "sslPort": null,
+  "payload": {
+    "@class": "org.springframework.cloud.zookeeper.discovery.ZookeeperInstance",
+    "id": "application-1",
+    "name": "config-client",
+    "metadata": {}
+  },
+  "registrationTimeUTC": 1567951157100,
+  "serviceType": "DYNAMIC",
+  "uriSpec": {
+    "parts": [
+      {
+        "value": "scheme",
+        "variable": true
+      },
+      {
+        "value": "://",
+        "variable": false
+      },
+      {
+        "value": "address",
+        "variable": true
+      },
+      {
+        "value": ":",
+        "variable": false
+      },
+      {
+        "value": "port",
+        "variable": true
+      }
+    ]
+  }
+}

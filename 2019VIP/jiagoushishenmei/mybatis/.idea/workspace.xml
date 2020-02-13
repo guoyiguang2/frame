@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gupaoedu-vip-spring-mybatis:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/Dialect.java" description="boolean beforeCount(MappedStatement ms, Object par..." line="58" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdb1363f-babe-4980-82d8-1d3a338ea951" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/target/" />
+    <ignored path="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mybatis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/PageInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2046">
+              <caret line="131" column="21" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#8086#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapperProxy.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractHelperDialect.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/dialect/AbstractHelperDialect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1452">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+              <folding>
+                <element signature="e#1821#1822#0" expanded="true" />
+                <element signature="e#1869#1870#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set(</find>
+      <find>trim</find>
+      <find>forEach</find>
+      <find>WithDeptResultMap</find>
+      <find>WithDept_Column_List</find>
+      <find>手动</find>
+      <find>empResultMap</find>
+      <find>sqlSession</find>
+      <find>transactionalCaches</find>
+      <find>tcm</find>
+      <find>configuration</find>
+      <find>flush</find>
+      <find>createCacheKey</find>
+      <find>getCache</find>
+      <find>MappedStatement</find>
+      <find>cache</find>
+      <find>entriesToAddOnCommit</find>
+      <find>mappedStatements</find>
+      <find>getMap</find>
+      <find>createMa</find>
+      <find>threadLocals</find>
+      <find>set</find>
+      <find>get</find>
+      <find>objectToString</find>
+      <find>startRow</find>
+      <find>dialect</find>
+      <find>count</find>
+      <find>BoundSql</find>
+      <find>invoke</find>
+      <find>parameter</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/JdbcTest.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/main/java/com/gupaoedu/datasource/DruidDataSourceFactory.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/cache/FirstLevelCacheTest.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/main/resources/BlogMapper.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/DepartmentController.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/MyAnnotation.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Address.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Student.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/SingleCacheTest.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/cache/SecondLevelCacheTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu" type="462c0819:PsiDirectoryNode" />
+              <item name="type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-mybatis-standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="gupaoedu-vip-spring-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginindexNum" value="64" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="MapperProxy&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;PageInter&#9;FILE&#9;jar://F:/maven/repository/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/PageInterceptor.java&#10;Mappeds&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/mapping/MappedStatement.java&#10;MappedStatement&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/mapping/MappedStatement.java&#10;PageInterceptor&#9;FILE&#9;file://F:/project/gupao/2019/2019VIP/jiagoushishenmei/mybatis/gupaoedu-vip-mybatis-standalone/src/main/java/com/gupaoedu/interceptor/MyPageInterceptor.java&#10;MysqlDia&#9;FILE&#9;jar://F:/maven/repository/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/dialect/helper/MySqlDialect.java&#10;String&#9;FILE&#9;jar://F:/JavaSE_1.8/jdk1.8.0_111/jre/lib/rt.jar!/com/sun/org/apache/xpath/internal/operations/String.class&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Configuration&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/session/Configuration.java&#10;Page&#9;PSI&#9;JAVA://com.gupaoedu.PageInterceptorTest&#10;Caching&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1.jar!/org/apache/ibatis/executor/CachingExecutor.class&#10;Cache&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/cache/Cache.java&#10;Cach&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java&#10;CachingE&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java&#10;BaseExecutor&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java&#10;CachingEx&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java&#10;DefaultSqlSess&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java&#10;MapperPro&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperProxy.java&#10;MapperRegistry&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java&#10;XmlMap&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/builder/xml/XMLMapperBuilder.java&#10;MapperBuilderAssistant&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/builder/MapperBuilderAssistant.java&#10;Executor&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java&#10;FirstC&#9;FILE&#9;file://F:/project/gupao/2019/2019VIP/jiagoushishenmei/mybatis/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/cache/FirstLevelCacheTest.java&#10;Exe&#9;FILE&#9;jar://F:/maven/repository/org/mybatis/mybatis/3.5.1/mybatis-3.5.1.jar!/org/apache/ibatis/executor/CachingExecutor.class&#10;MyBatis&#9;FILE&#9;file://F:/project/gupao/2019/2019VIP/jiagoushishenmei/mybatis/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/MyBatisTest.java&#10;BlogM&#9;FILE&#9;file://F:/project/gupao/2019/2019VIP/jiagoushishenmei/mybatis/gupaoedu-vip-mybatis-standalone/src/main/resources/BlogMapper.xml&#10;Employee&#9;PSI&#9;JAVA://com.gupaoedu.crud.bean.Employee&#10;Employ&#9;FILE&#9;file://F:/project/gupao/2019/2019VIP/jiagoushishenmei/mybatis/gupaoedu-vip-spring-mybatis/src/main/resources/mapper/EmployeeMapper.xml&#10;EmployeeTest&#9;PSI&#9;JAVA://com.gupaoedu.EmployeeRowMapperTest&#10;MapperTest&#9;PSI&#9;JAVA://com.gupaoedu.MapperTest&#10;MyBatisTest&#9;PSI&#9;JAVA://com.gupaoedu.MyBatisTest&#10;JdbcTest&#9;PSI&#9;JAVA://com.gupaoedu.JdbcTest&#10;Blog&#9;PSI&#9;JAVA://com.gupaoedu.domain.Blog" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gupaoedu.crud.bean" />
+      <recent name="com.gupaoedu.crud.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.spring-mybatis">
+    <configuration name="DepartmentController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.crud.controller.DepartmentController" />
+      <module name="gupaoedu-vip-spring-mybatis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.crud.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SingleCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.crud.controller.SingleCacheTest" />
+      <module name="gupaoedu-vip-spring-mybatis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.crud.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SecondLevelCacheTest.testCacheInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gupaoedu-vip-mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.cache.SecondLevelCacheTest" />
+      <option name="METHOD_NAME" value="testCacheInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SecondLevelCacheTest.testMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gupaoedu-vip-mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.cache.SecondLevelCacheTest" />
+      <option name="METHOD_NAME" value="testMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SecondLevelCacheTest.testMybatisProcedure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gupaoedu-vip-mybatis-standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.cache.SecondLevelCacheTest" />
+      <option name="METHOD_NAME" value="testMybatisProcedure" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="gupaoedu-vip-spring-mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_mybatis" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55080" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="gupaoedu-vip-spring-mybatis:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="spring-mybatis" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="gupaoedu-vip-spring-mybatis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mybatis" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55080" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.spring-mybatis" />
+      <item itemvalue="JUnit.SecondLevelCacheTest.testCacheInvalid" />
+      <item itemvalue="JUnit.SecondLevelCacheTest.testMap" />
+      <item itemvalue="JUnit.SecondLevelCacheTest.testMybatisProcedure" />
+      <item itemvalue="Application.DepartmentController" />
+      <item itemvalue="Application.SingleCacheTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SecondLevelCacheTest.testCacheInvalid" />
+        <item itemvalue="JUnit.SecondLevelCacheTest.testMybatisProcedure" />
+        <item itemvalue="Application.SingleCacheTest" />
+        <item itemvalue="Application.DepartmentController" />
+        <item itemvalue="JUnit.SecondLevelCacheTest.testMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdb1363f-babe-4980-82d8-1d3a338ea951" name="Default" comment="" />
+      <created>1581146653303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581146653303</updated>
+      <workItem from="1581146656335" duration="8307000" />
+      <workItem from="1581170752002" duration="13794000" />
+      <workItem from="1581220934502" duration="29712000" />
+      <workItem from="1581306015240" duration="24988000" />
+      <workItem from="1581391063991" duration="478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.09 at 15h 59m 40s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.09 at 16h 57m 09s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.09 at 17h 03m 30s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.10 at 19h 09m 24s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.10 at 19h 12m 39s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.10 at 19h 14m 16s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.10 at 19h 36m 58s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.10 at 20h 01m 28s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testMybatisProcedure - 2020.02.10 at 20h 09m 37s.xml">
+      <configuration name="SecondLevelCacheTest.testMybatisProcedure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondLevelCacheTest_testCacheInvalid - 2020.02.10 at 20h 15m 58s.xml">
+      <configuration name="SecondLevelCacheTest.testCacheInvalid" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77279000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.38385502" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3294893" />
+      <window_info anchor="right" id="Redis Servers" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="7" weight="0.3294893" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39209226" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18616144" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3607908" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71868134" visible="true" weight="0.29954615" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.2813187" side_tool="true" weight="0.16641453" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3294893" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32454696" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3294893" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18616144" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3607908" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32454696" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.2813187" side_tool="true" weight="0.16641453" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.38385502" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3294893" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.3294893" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71868134" visible="true" weight="0.29500756" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Redis Servers" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" visible="true" weight="0.26359144" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/EmployeeController.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="215" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/MyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="12" column="20" selection-start-line="8" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/bean/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/SingleCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="112" column="28" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
+          <folding>
+            <element signature="e#3115#3124#0" expanded="true" />
+            <element signature="e#3592#3601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/table.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-end-line="26" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/main/java/com/gupaoedu/interceptor/MyPageInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1964#1965#0" expanded="true" />
+            <element signature="e#2012#2013#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/PageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="104" column="11" selection-start-line="104" selection-start-column="11" selection-end-line="104" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="209" column="21" lean-forward="true" selection-start-line="209" selection-start-column="21" selection-end-line="209" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/session/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="762" column="30" lean-forward="true" selection-start-line="762" selection-start-column="30" selection-end-line="762" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/resultset/ResultSetHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/session/SqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/main/resources/BlogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1320" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/mapping/SqlSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/builder/StaticSqlSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/statement/StatementHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/statement/SimpleStatementHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/JdbcC3p0Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/mapping/MappedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="295" column="46" selection-start-line="295" selection-start-column="37" selection-end-line="295" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/JdbcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-mybatis-standalone/src/test/java/com/gupaoedu/cache/SecondLevelCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="55" column="43" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="35" column="59" lean-forward="true" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/daosupport/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/rowmapper/EmployeeRowMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/rowmapper/BaseRowMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="158" column="13" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/page/PageAutoDialect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/executor/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/mapping/BoundSql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/Dialect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="113" column="11" selection-start-line="113" selection-start-column="11" selection-end-line="113" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/page/PageMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/PageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="87" column="47" selection-start-line="87" selection-start-column="47" selection-end-line="87" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/dialect/helper/MySqlDialect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gupaoedu-vip-spring-mybatis/src/main/java/com/gupaoedu/crud/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/dialect/AbstractHelperDialect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#1821#1822#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/PageInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="131" column="21" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#8086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.1/mybatis-3.5.1-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>gupaoedu-vip-spring-mybatis:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gupaoedu-vip-mybatis-standalone</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

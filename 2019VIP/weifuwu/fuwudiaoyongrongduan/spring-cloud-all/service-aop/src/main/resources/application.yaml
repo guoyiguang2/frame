@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: service-aop
+  autoconfigure:
+    exclude: org.springframework.cloud.consul.serviceregistry.ConsulAutoServiceRegistrationAutoConfiguration
+#  cloud:
+#      gateway:
+#        routes:
+#        - id: rest
+#          uri: http://127.0.0.1:8082/hello # 被代理的 URI
+#          predicates:
+#          - Path=/rest/hello
+#          filters:
+#          - StripPrefix=1
+
+server:
+  port: 8083 #随机端口

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/util
+       http://www.springframework.org/schema/util/spring-util-2.0.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+
+    <!--1. 无参数构造器 创建对象-->
+    <!--<bean id="person" class="com.gupaoedu.vip.model.Person">-->
+        <!--<property name="name" value="miss Liu"></property>-->
+        <!--<property name="sex" value="man"></property>-->
+        <!--<property name="age" value="27"></property>-->
+        <!--<property name="user" ref="user"></property>-->
+    <!--</bean>-->
+
+    <!--2. 带参数构造器 创建对象-->
+    <!--<bean id="user" class="com.gupaoedu.vip.model.User">-->
+       <!--<constructor-arg index="0" type="java.lang.String" value="Jack" />-->
+        <!--<constructor-arg index="1" type="java.lang.String" value="man" />-->
+        <!--<constructor-arg index="2" type="java.lang.String" value="56" />-->
+    <!--</bean>-->
+
+    <!--静态工厂 实例化-->
+    <!-- id依旧自己命名,class中的值为静态工厂类的全路径 需要多写返回对象的静态方法，并且值要与方法名一致 -->
+    <!--<bean id="userStaticService" class="com.gupaoedu.vip.model.StaticFactory" factory-method="getInstance"></bean>-->
+
+    <!--实例工厂 实例化-->
+    <bean id="userInstanceService" class="com.gupaoedu.vip.model.InstanceFactory"></bean>
+    <!-- 因为不是静态的返回对象，所以要先获取到工厂对象，然后再通过工厂对象使用非静态成员方法，得到userService对象 -->
+    <!-- 这里的factory-bean中的值为前面写的指向实例工厂类bean的id -->
+    <bean id="userService" factory-bean="userInstanceService" factory-method="getInstance"></bean>
+
+
+    <!--<context:component-scan base-package="com.gupaoedu.vip" />-->
+
+    <!-- 声明一个需要织入到虚拟切面的逻辑(切面) -->
+    <bean id="logAspect1" class="com.gupaoedu.vip.model.LogAspect1"></bean>
+    <!--<bean id="logAspect2" class="com.gupaoedu.vip.model.LogAspect2"></bean>-->
+
+    <aop:config>
+        <aop:aspect ref="logAspect1" id="logAspectOne" order="1">
+            <!-- 切点：具体的方法声明 -->
+            <!-- Spring表达式的强大功能 -->
+            <aop:pointcut id="logPointcut1" expression="execution(* com.gupaoedu.vip.service..*(..))"/>
+            <aop:before method="before" pointcut-ref="logPointcut1"/>
+            <!--<aop:around method="around" pointcut-ref="logPointcut1"/>-->
+            <!--<aop:after method="after" pointcut-ref="logPointcut1"/>-->
+            <!--<aop:after-returning method="afterReturn" pointcut-ref="logPointcut1"/>-->
+            <!--<aop:after-throwing method="afterThrows" pointcut-ref="logPointcut1"/>-->
+        </aop:aspect>
+
+
+        <!--<aop:aspect ref="logAspect2" id="logAspectTwo" order="2">-->
+            <!--&lt;!&ndash; 切点：具体的方法声明 &ndash;&gt;-->
+            <!--&lt;!&ndash; Spring表达式的强大功能 &ndash;&gt;-->
+            <!--<aop:pointcut id="logPointcut2" expression="execution(* com.gupaoedu.vip.service..*(..))"/>-->
+            <!--<aop:before method="before" pointcut-ref="logPointcut2"/>-->
+            <!--<aop:around method="around" pointcut-ref="logPointcut2"/>-->
+            <!--<aop:after method="after" pointcut-ref="logPointcut2"/>-->
+            <!--<aop:after-returning method="afterReturn" pointcut-ref="logPointcut2"/>-->
+            <!--<aop:after-throwing method="afterThrows" pointcut-ref="logPointcut2"/>-->
+        <!--</aop:aspect>-->
+    </aop:config>
+
+
+
+
+
+</beans>

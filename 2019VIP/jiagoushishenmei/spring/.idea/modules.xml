@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/300hangshouxie/gupaoedu-vip-spring-1.0/gupaoedu-vip-spring.iml" filepath="$PROJECT_DIR$/300hangshouxie/gupaoedu-vip-spring-1.0/gupaoedu-vip-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringAop/gupaoedu-vip-spring-aop/gupaoedu-vip-spring-aop.iml" filepath="$PROJECT_DIR$/SpringAop/gupaoedu-vip-spring-aop/gupaoedu-vip-spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+    </modules>
+  </component>
+</project>

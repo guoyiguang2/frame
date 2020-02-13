@@ -1,0 +1,4 @@
+admin/add
+admin/delete
+admin/update
+admin/get

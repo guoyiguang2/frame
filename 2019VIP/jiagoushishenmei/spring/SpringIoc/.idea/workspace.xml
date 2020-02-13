@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringIoc:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/InstantiationStrategy.java" description="Object instantiate(RootBeanDefinition bd, @Nullabl..." line="47" />
+    <bookmark url="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java" description="protected abstract Object createBean(String beanNa..." line="1935" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e2e21e5-1633-4ec8-a2f6-6401ee53184f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AbstractAutowireCapableBeanFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="1802" selection-start-line="1802" selection-end-line="1802" />
+              <folding>
+                <element signature="e#8872#8873#0" expanded="true" />
+                <element signature="e#8912#8913#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanPostProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanPostProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractAutoProxyCreator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="334" selection-start-line="334" selection-end-line="334" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultSingletonBeanRegistry.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
+              <folding>
+                <element signature="e#7035#7036#0" expanded="true" />
+                <element signature="e#7077#7078#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProxyCreatorSupport.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyCreatorSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultAopProxyFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdkDynamicAopProxy.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="208" column="30" lean-forward="true" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
+              <folding>
+                <element signature="e#4179#4180#0" expanded="true" />
+                <element signature="e#4237#4238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvisedSupport.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisedSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="483" selection-start-line="483" selection-end-line="483" />
+              <folding>
+                <element signature="e#0#18389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvisorChainFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisorChainFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultAdvisorChainFactory.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAdvisorChainFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-196">
+              <caret line="62" column="53" lean-forward="true" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>registerBeanDefinition</find>
+      <find>registerB</find>
+      <find>doRegisterBeanDefinitions</find>
+      <find>updateManualSingletonNames</find>
+      <find>registerSingleton</find>
+      <find>removeManualSingletonName</find>
+      <find>onRefresh</find>
+      <find>getLifecycleBeans</find>
+      <find>addSingleton</find>
+      <find>getSingleton</find>
+      <find>registerBeanPostProcessors</find>
+      <find>register</find>
+      <find>registerAlias</find>
+      <find>getBean</find>
+      <find>populateBean</find>
+      <find>create</find>
+      <find>singletonObjects</find>
+      <find>singletonFactories</find>
+      <find>createB</find>
+      <find>doCreate</find>
+      <find>autowireConstructor</find>
+      <find>createBean</find>
+      <find>doCreateBean</find>
+      <find>compare</find>
+      <find>initial</find>
+      <find>wrapIf</find>
+      <find>createAop</find>
+      <find>createProxy</find>
+      <find>applyB</find>
+      <find>invoke</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/java/com/gupaoedu/vip/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/java/com/gupaoedu/vip/service/UserServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/java/com/gupaoedu/vip/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/java/com/gupaoedu/vip/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/java/com/gupaoedu/vip/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/User.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/StaticFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/service/UserServiceImp.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/InstanceFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/XmlAspect.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/LogAspect.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/LogAspect1.java" />
+        <option value="$PROJECT_DIR$/src/com/gupaoedu/vip/model/LogAspect2.java" />
+        <option value="$PROJECT_DIR$/src/spring-config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringIoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringIoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringIoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringIoc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringIoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringIoc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringIoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringIoc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringIoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringIoc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="JDK&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java&#10;Registry&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java&#10;Capable&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java&#10;ProxyFactory&#9;PSI&#9;JAVA://org.springframework.aop.framework.ProxyFactory&#10;AbstractAu&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java&#10;OrderCom&#9;PSI&#9;JAVA://org.springframework.core.OrderComparator&#10;AbstractAdvisor&#9;PSI&#9;JAVA://org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator&#10;ReflectiveMethod&#9;PSI&#9;JAVA://org.springframework.aop.framework.ReflectiveMethodInvocation&#10;DefaultAd&#9;PSI&#9;JAVA://org.springframework.aop.framework.adapter.DefaultAdvisorAdapterRegistry&#10;AdvisedS&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisedSupport.java&#10;JdkDy&#9;PSI&#9;JAVA://org.springframework.aop.framework.JdkDynamicAopProxy&#10;AbstracBeanFactory&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java&#10;AbstractCapable&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java&#10;Stra&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/InstantiationStrategy.java&#10;SimpleInst&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java&#10;AbstractCapableB&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java&#10;AbstractAutowireCapableBeanFactory&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java&#10;BeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;Listable&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java&#10;BeanFact&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;BeanUtil&#9;PSI&#9;JAVA://org.springframework.beans.BeanUtils&#10;AnnotationConfig&#9;PSI&#9;JAVA://org.springframework.context.annotation.AnnotationConfigApplicationContext&#10;DefaultList&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java&#10;DefaultListable&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java&#10;AbstractApplicationContext&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-context-5.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java&#10;AbstractBeanFactory.java&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java&#10;BeanDefi&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;XmlBean&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java&#10;DefaultResource&#9;PSI&#9;JAVA://org.springframework.core.io.DefaultResourceLoader&#10;AbstractXml&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-context-5.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractXmlApplicationContext.java&#10;DispatchServlet.&#9;FILE&#9;jar://F:/project/gupao/2019/2019VIP/jiagoushishenmei/spring/SpringIoc/lib/spring-test-5.2.3.RELEASE.jar!/org/springframework/test/web/servlet/DispatcherServletCustomizer.class&#10;BeanFactory.java&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java&#10;DefaultListableBeanFactory&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java&#10;ClassPathXmlApplicationContext&#9;FILE&#9;jar://C:/Users/guoyiguang/.ideaLibSources/spring-context-5.2.3.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.16342857" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gupaoedu.vip.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\gupao\2019\2019VIP\jiagoushishenmei\spring\SpringIoc\src\java\com\gupaoedu\vip" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.getUser">
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.TestMain" />
+      <module name="SpringIoc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.vip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MyTest.getUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringIoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupaoedu.vip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.gupaoedu.vip" />
+      <option name="MAIN_CLASS_NAME" value="com.gupaoedu.vip.MyTest" />
+      <option name="METHOD_NAME" value="getUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="spring-ioc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringIoc:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringIoc" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51021" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringIoc:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.spring-ioc" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="JUnit.MyTest.getUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.getUser" />
+        <item itemvalue="Application.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e2e21e5-1633-4ec8-a2f6-6401ee53184f" name="Default" comment="" />
+      <created>1581401521542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581401521542</updated>
+      <workItem from="1581401530534" duration="12129000" />
+      <workItem from="1581417804610" duration="37524000" />
+      <workItem from="1581504092508" duration="7745000" />
+      <workItem from="1581570974856" duration="6832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_getUser - 2020.02.13 at 13h 55m 57s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 13h 57m 20s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 01m 03s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 02m 06s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 04m 15s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 09m 51s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 10m 25s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 26m 41s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 34m 38s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getUser - 2020.02.13 at 14h 56m 57s.xml">
+      <configuration name="MyTest.getUser" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64230000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3294893" />
+      <window_info anchor="right" id="Redis Servers" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49752882" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3294893" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.3294893" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3294893" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.47276855" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29654035" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.3294893" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3294893" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294893" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Redis Servers" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3294893" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3294893" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6243822" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.29818782" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="441" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>wrappedObject</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.wrappedObject</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getWrappedInstance</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>singletonFactories</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="422" column="30" selection-start-line="422" selection-start-column="30" selection-end-line="422" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="157" column="7" lean-forward="true" selection-start-line="157" selection-start-column="7" selection-end-line="157" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#19609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding>
+            <element signature="e#3134#3135#0" expanded="true" />
+            <element signature="e#3189#3190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionValueResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1600">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/MutablePropertyValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/PropertyAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="188" column="9" selection-start-line="188" selection-start-column="9" selection-end-line="188" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-core-5.2.3.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11770">
+          <caret line="566" column="23" selection-start-line="566" selection-start-column="23" selection-end-line="566" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/AbstractNestablePropertyAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="1051" selection-start-line="1051" selection-end-line="1051" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/BeanWrapperImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="331" column="39" lean-forward="true" selection-start-line="331" selection-start-column="39" selection-end-line="331" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/AbstractPropertyAccessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-context-5.2.3.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="877" column="47" lean-forward="true" selection-start-line="877" selection-start-column="47" selection-end-line="877" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="845" column="36" selection-start-line="845" selection-start-column="16" selection-end-line="845" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/StaticFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/ConstructorResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="124" column="23" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/InstantiationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret column="13" selection-start-column="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/XmlAspect.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/InstanceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoc.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/aspectjrt.jar!/org/aspectj/lang/JoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-aop-5.2.3.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/LogAspect.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/service/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-core-5.2.3.RELEASE-sources.jar!/org/springframework/core/OrderComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/adapter/DefaultAdvisorAdapterRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#3248#3249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/LogAspect2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="53" column="69" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/model/LogAspect1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupaoedu/vip/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-context-5.2.3.RELEASE-sources.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-354">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/AopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/AopProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="941" selection-start-line="941" selection-end-line="941" />
+          <folding>
+            <element signature="e#34958#34959#0" expanded="true" />
+            <element signature="e#67350#67351#0" expanded="true" />
+            <element signature="e#67394#67395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="e#3211#3212#0" expanded="true" />
+            <element signature="e#3252#3253#0" expanded="true" />
+            <element signature="e#3796#3797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyCreatorSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisorChainFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAdvisorChainFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="62" column="53" lean-forward="true" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <element signature="e#7035#7036#0" expanded="true" />
+            <element signature="e#7077#7078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="334" selection-start-line="334" selection-end-line="334" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-5.2.3.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="1802" selection-start-line="1802" selection-end-line="1802" />
+          <folding>
+            <element signature="e#8872#8873#0" expanded="true" />
+            <element signature="e#8912#8913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisedSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="483" selection-start-line="483" selection-end-line="483" />
+          <folding>
+            <element signature="e#0#18389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-aop-5.2.3.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="208" column="30" lean-forward="true" selection-start-line="208" selection-start-column="30" selection-end-line="208" selection-end-column="30" />
+          <folding>
+            <element signature="e#4179#4180#0" expanded="true" />
+            <element signature="e#4237#4238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SpringIoc:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16342857" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (SpringIoc)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16342857" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SpringIoc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16342857" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring-5.2.3.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16342857" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
