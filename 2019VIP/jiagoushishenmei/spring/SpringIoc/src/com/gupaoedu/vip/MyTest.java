@@ -20,8 +20,6 @@ public class MyTest {
 
 
 
-
-
     @Test
     public void getUser() {
       User user =  userService.getUserByName("libai");
